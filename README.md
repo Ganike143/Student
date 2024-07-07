@@ -1,4 +1,6 @@
 How to run the Tailwebs  Project using PHP and MySQL
+On GitHub.com, navigate to the main page of the repository.
+Above the list of files, click  Code.
 
 1. Download the project zip file
 
