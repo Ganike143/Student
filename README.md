@@ -4,7 +4,7 @@ Above the list of files, click  Code.
 
 1. Download the project zip file
 
-2. Extract the file and copy Tailwebs   folder
+2. Extract the file and copy Student-master   folder
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
 
@@ -14,7 +14,7 @@ Above the list of files, click  Code.
 
 6. Import tailwebsdb.sql file(given inside the zip package in SQL file folder)
 
-7. Run the script http://localhost/Tailwebs
+7. Run the script http://localhost/Student-master
 
 Admin Credential
 Username: admin
